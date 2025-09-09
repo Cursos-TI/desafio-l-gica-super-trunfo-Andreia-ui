@@ -12,4 +12,5 @@ struct Carta {
     float pibPerCapita;
 };
 int main() {
+    printf("logicaSuperTrunfo!\n");
     
